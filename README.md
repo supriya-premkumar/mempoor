@@ -247,7 +247,7 @@ make
 # make test unit tests runs with -race flag
 make test
 
-# make. Saves output in 
+# make. Saves node output in e2e_test_output
 make e2e
 ```
 
